@@ -1,6 +1,12 @@
-h1, h2 {
+h1, h3, p {
     text-align: center;
 }
+.menu {
+    width: 80%;
+    background-color: pink;
+    margin-right: auto;
+    margin-left: auto;
+}
 body { 
-    background-color: burlywood;
+    background-image: none;
 }
