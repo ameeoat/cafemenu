@@ -10,3 +10,12 @@ h1, h3, p {
 body { 
     background-image: none;
 }
+.flavor {
+    text-align: left;
+}
+.price {
+    text-align: right;
+}
+.item p { 
+    display: inline-block;
+}
