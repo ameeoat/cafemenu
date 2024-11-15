@@ -11,10 +11,13 @@ body {
     background-image: none;
 }
 .flavor {
-    text-align: left;
+    text-align: center;
+    width: 50%
 }
 .price {
-    text-align: right;
+    text-align: center;
+    width: 50%
+    
 }
 .item p { 
     display: inline-block;
